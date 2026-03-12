@@ -1,0 +1,19 @@
+#include <string>
+#include <stdexcept>
+
+int compute(const std::string& a, const std::string& b) {
+
+    if (a.length() != b.length()) {
+        throw std::domain_error("strings must be same length");
+    }
+
+    int distance = 0;
+
+    for (int i = 0; i < a.length(); i++) {
+        if (a[i] != b[i]) {
+            distance++;
+        }
+    }
+
+    return distance;
+}
