@@ -1,1 +1,5 @@
 # Ejercicio-1---Corte-2-
+
+Este repositorio contiene soluciones a varios ejercicios de programación desarrollados en **C++** con el objetivo de practicar lógica, algoritmos y conceptos básicos de programación. Entre los problemas incluidos se encuentran **Armstrong Numbers**, que consiste en determinar si un número es igual a la suma de sus dígitos elevados a la potencia del número de dígitos; **Hamming Distance**, que calcula cuántas posiciones diferentes existen entre dos cadenas de la misma longitud; y **Parking System**, un problema que utiliza clases para simular un sistema simple de estacionamiento con espacios para diferentes tipos de vehículos.
+
+También se incluye el ejercicio **Space Age**, que consiste en convertir una edad dada en segundos a años en diferentes planetas del sistema solar, utilizando los periodos orbitales de cada uno. Estos ejercicios permiten practicar estructuras básicas del lenguaje, manejo de datos, uso de funciones y programación orientada a objetos, además de servir como entrenamiento para mejorar la resolución de problemas en programación.
